@@ -17,12 +17,6 @@ export default defineConfig({
         items: [
           { text: 'Привет, мир!', link: '/notes/hello' }
         ]
-      },
-      {
-        text: 'Искусство ремонта',
-        items: [
-          { text: 'Топ сайтов Сочи (SEO)', link: '/art-remont/seo_and_search/Топ_сайтов_Сочи' }
-        ]
       }
     ],
 
